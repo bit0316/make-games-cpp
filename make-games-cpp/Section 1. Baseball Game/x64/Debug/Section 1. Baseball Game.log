@@ -1,0 +1,5 @@
+﻿  Baseball_Game.cpp
+C:\Users\user\Documents\make-games-cpp\make-games-cpp\Section 1. Baseball Game\Baseball_Game.cpp(48,16): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\user\Documents\make-games-cpp\make-games-cpp\Section 1. Baseball Game\Baseball_Game.cpp(48,41): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\user\Documents\make-games-cpp\make-games-cpp\Section 1. Baseball Game\Baseball_Game.cpp(48,66): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  Section 1. Baseball Game.vcxproj -> C:\Users\user\Documents\make-games-cpp\make-games-cpp\x64\Debug\Section 1. Baseball Game.exe
