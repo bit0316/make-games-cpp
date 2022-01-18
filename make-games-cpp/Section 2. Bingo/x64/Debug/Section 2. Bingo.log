@@ -1,0 +1,4 @@
+﻿  Bingo.cpp
+C:\Users\user\Documents\make-games-cpp\make-games-cpp\Section 2. Bingo\Bingo.cpp(69,15): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\user\Documents\make-games-cpp\make-games-cpp\Section 2. Bingo\Bingo.cpp(168,16): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  Section 2. Bingo.vcxproj -> C:\Users\user\Documents\make-games-cpp\make-games-cpp\x64\Debug\Section 2. Bingo.exe

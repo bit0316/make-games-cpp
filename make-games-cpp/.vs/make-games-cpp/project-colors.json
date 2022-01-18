@@ -20,7 +20,12 @@
       "ProjectGuid": "06e6d6e6-72b8-46cd-9e41-3830027a1003",
       "DisplayName": "Section 1. Number Puzzle Game",
       "ColorIndex": 2
+    },
+    "aeb14074-a6d7-4f26-a723-c5303cb6f80e": {
+      "ProjectGuid": "aeb14074-a6d7-4f26-a723-c5303cb6f80e",
+      "DisplayName": "Section 2. Bingo",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
