@@ -25,7 +25,12 @@
       "ProjectGuid": "aeb14074-a6d7-4f26-a723-c5303cb6f80e",
       "DisplayName": "Section 2. Bingo",
       "ColorIndex": 3
+    },
+    "994c5b67-5e30-44aa-8a9f-e0ee67b9238b": {
+      "ProjectGuid": "994c5b67-5e30-44aa-8a9f-e0ee67b9238b",
+      "DisplayName": "Section 3. Student Management",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
