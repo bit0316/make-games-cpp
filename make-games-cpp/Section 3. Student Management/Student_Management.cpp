@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string.h>
 
 #define NAME_SIZE		32
 #define ADDRESS_SIZE	128
@@ -213,11 +214,11 @@ int main()
 				cout << "평균 : " << tStudentArr[i].fAvg << endl << endl;
 			}
 			break;
-
-
-
-
-
+		
+		
+		
+		
+		
 		default:
 			cout << "메뉴를 잘못 선택했습니다." << endl;
 			break;

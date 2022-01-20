@@ -297,11 +297,11 @@ int main()
 
 		case MM_INVENTORY:
 			break;
-
-
-
-
-
+		
+		
+		
+		
+		
 		default:
 			cout << "잘못 선택하였습니다." << endl;
 			break;
