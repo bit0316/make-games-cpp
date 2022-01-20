@@ -30,7 +30,12 @@
       "ProjectGuid": "994c5b67-5e30-44aa-8a9f-e0ee67b9238b",
       "DisplayName": "Section 3. Student Management",
       "ColorIndex": 4
+    },
+    "ada088f9-302e-4ba4-a53b-6f16c25397d8": {
+      "ProjectGuid": "ada088f9-302e-4ba4-a53b-6f16c25397d8",
+      "DisplayName": "Section 4. Text RPG",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

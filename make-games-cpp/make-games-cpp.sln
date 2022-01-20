@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section 2. Bingo", "Section
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section 3. Student Management", "Section 3. Student Management\Section 3. Student Management.vcxproj", "{994C5B67-5E30-44AA-8A9F-E0EE67B9238B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section 4. Text RPG", "Section 4. Text RPG\Section 4. Text RPG.vcxproj", "{ADA088F9-302E-4BA4-A53B-6F16C25397D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{994C5B67-5E30-44AA-8A9F-E0EE67B9238B}.Release|x64.Build.0 = Release|x64
 		{994C5B67-5E30-44AA-8A9F-E0EE67B9238B}.Release|x86.ActiveCfg = Release|Win32
 		{994C5B67-5E30-44AA-8A9F-E0EE67B9238B}.Release|x86.Build.0 = Release|Win32
+		{ADA088F9-302E-4BA4-A53B-6F16C25397D8}.Debug|x64.ActiveCfg = Debug|x64
+		{ADA088F9-302E-4BA4-A53B-6F16C25397D8}.Debug|x64.Build.0 = Debug|x64
+		{ADA088F9-302E-4BA4-A53B-6F16C25397D8}.Debug|x86.ActiveCfg = Debug|Win32
+		{ADA088F9-302E-4BA4-A53B-6F16C25397D8}.Debug|x86.Build.0 = Debug|Win32
+		{ADA088F9-302E-4BA4-A53B-6F16C25397D8}.Release|x64.ActiveCfg = Release|x64
+		{ADA088F9-302E-4BA4-A53B-6F16C25397D8}.Release|x64.Build.0 = Release|x64
+		{ADA088F9-302E-4BA4-A53B-6F16C25397D8}.Release|x86.ActiveCfg = Release|Win32
+		{ADA088F9-302E-4BA4-A53B-6F16C25397D8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
