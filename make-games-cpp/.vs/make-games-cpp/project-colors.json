@@ -35,7 +35,12 @@
       "ProjectGuid": "ada088f9-302e-4ba4-a53b-6f16c25397d8",
       "DisplayName": "Section 4. Text RPG",
       "ColorIndex": 5
+    },
+    "a6d1a4b3-ed65-455b-9777-6521da1f94eb": {
+      "ProjectGuid": "a6d1a4b3-ed65-455b-9777-6521da1f94eb",
+      "DisplayName": "Section 5. Pointer",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
